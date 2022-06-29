@@ -15,6 +15,8 @@ public class CarKey {
         this.laserCut = laserCut;
     }
 
+    public CarKey(String carKeyString) {
+    }
 
 
     public String getVIN() {
